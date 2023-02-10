@@ -71,3 +71,4 @@ export { variable1 as name1, variable2 as name2, …, nameN };
 export { myFunction, myVariable };
 ```
 
+![The San Juan Mountains are beautiful!](./img/End.jpg)
